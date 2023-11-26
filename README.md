@@ -20,7 +20,7 @@ The task involves:
 - End: 30th November, 23
 - Submission: 5th December, 23
 
-- # 2)Customer Segmentation using K-means Clustering
+# 2)Customer Segmentation using K-means Clustering
 
 ## Overview
 This repository contains the implementation of a K-means clustering algorithm for customer segmentation based on purchase history. The project is part of the Machine Learning internship at Prodigy InfoTech.
@@ -41,7 +41,7 @@ The task involves:
 - End: 30th November, 23
 - Submission: 5th December, 23
 
-- # 3)Cat and Dog Image Classification using SVM
+# 3)Cat and Dog Image Classification using SVM
 
 ## Overview
 This repository contains the implementation of an image classification model using Support Vector Machine (SVM) to classify images of cats and dogs. It was developed as part of the Machine Learning internship at Prodigy InfoTech.
@@ -69,7 +69,7 @@ Implement a support vector machine (SVM) to classify images of cats and dogs fro
 - Submission: 5th December, 23
 - Certificate Distribution: 2nd Week of December, 23
 
-- # 4)Hand Gesture Recognition Model
+# 4)Hand Gesture Recognition Model
 
 ## Overview
 This project focuses on developing a model to recognize and classify various hand gestures from image or video data. The goal is to create a system that enables intuitive human-computer interaction and gesture-based control systems.
